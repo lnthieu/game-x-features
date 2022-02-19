@@ -1,1 +1,1 @@
-export * from './lib/template';
+export {version} from './lib/feature-1';
